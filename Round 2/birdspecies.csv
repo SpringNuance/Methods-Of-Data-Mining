@@ -1,0 +1,65 @@
+species;group;length;wspan;weight;back;belly
+pikkulokki;laridae;25-27;62-69;100-150;light grey;white
+naurulokki;laridae;34-38;86-99;200-350;light grey;white
+kalalokki;laridae;40-44;99-108;350-500;bluish grey;white
+selkälokki;laridae;52-60;117-134;700-800;black;white
+harmaalokki;laridae;55-65;123-148;800-1300;bluish grey;white
+merilokki;laridae;64-78;144-166;1300-2200;black;white
+räyskä;sternidae;47-54;96-111;700-860;grey;white
+kalatiira;sternidae;36-42;70-80;100-145;grey;white
+lapintiira;sternidae;33-37;66-77;90-130;grey;white
+pikkutiira;sternidae;21-24;41-47;40-60;grey;white
+suokukko;scolopacidae;25-26;46-49;90-130;dappled brown;white
+taivaanvuohi;scolopacidae;25-27;39-45;90-110;dappled brown;white
+lehtokurppa;scolopacidae;34-36;55-65;280-330;dappled brown;dappled beige
+pikkukuovi;scolopacidae;37-45;78-88;310-420;dappled brown;dappled beige
+isokuovi;scolopacidae;48-57;89-106;400-1000;dappled brown;dappled beige
+punajalkaviklo;scolopacidae;27-29;47-53;90-130;dappled brown;white
+valkoviklo;scolopacidae;30-34;55-62;155-210;brown;white
+metsäviklo;scolopacidae;21-24;39-44;75-85;brown;white
+liro;scolopacidae;21-23;35-39;50-70;dappled brown;white
+rantasipi;scolopacidae;19-21;32-35;40-60;dappled brown;white
+vesipääsky;scolopacidae;18-22;30-34;30-45;dappled brown;light grey
+pikkutylli;charadriidae;15-16;32-35;35-45;greyish brown;white
+tylli;charadriidae;18-19;35-41;50-65;greyish brown;white
+kapustarinta;charadriidae;27-29;53-59;160-220;dappled brown;black
+keräkurmitsa;charadriidae;20-24;57-64;85-140;dappled brown;black
+töyhtöhyyppä;charadriidae;30-34;67-72;170-230;black;white
+haapana;dabbling ducks;41-51;71-80;600-800;dappled brown;white
+tavi;dabbling ducks;34-38;53-59;250-450;dappled brown;beige
+sinisorsa;dabbling ducks;50-60;79-87;900-1300;dappled brown;beige
+heinätavi;dabbling ducks;37-41;59-67;300-550;dappled brown;beige
+lapasorsa;dabbling ducks;44-52;73-82;500-700;dappled brown;dark brown
+ristisorsa;dabbling ducks;58-67;100-120;900-1400;dappled brown;white
+harmaasorsa;dabbling ducks;46-56;80-90;600-1000;grey;white
+mustalintu;diving ducks;44-54;70-85;750-800;dark brown;dark brown
+tukkasotka;diving ducks;41-46;65-72;600-800;dark brown;dark brown
+punasotka;diving ducks;42-49;67-75;770-970;beige;beige
+haahka;diving ducks;60-70;95-105;1200-2500;dappled brown;brown
+telkkä;diving ducks;45-50;62-77;450-600;greyish brown;white
+tukkakoskelo;diving ducks;50-60;69-82;800-1100;greyish brown;greyish brown
+isokoskelo;diving ducks;60-70;78-94;1300-1900;grey;light grey
+metsähanhi;anserini;66-84;140-174;3000-3500;dark brown;beige
+merihanhi;anserini;75-90;149-168;2500-3500;dappled brown;light grey
+kanadanhanhi;anserini;90-100;160-185;3000-5500;greyish brown;beige
+valkoposkihanhi;anserini;58-70;120-142;1500-2000;black-white;greyish white
+laulujoutsen;cygnini;145-160;205-235;8000-10000;white;white
+kyhmyjoutsen;cygnini;145-160;200-240;9000-13000;white;white
+kurki;gruifores;110-120;185-220;4000-6000;grey;grey
+luhtakana;rallidae;23-29;38-45;75-190;brown speckled;grey
+ruisrääkkä;rallidae;27-30;42-53;140-200;dappled brown;beige
+liejukana;rallidae;28-40;50-55;170-490;brownish black;dark grey
+nokikana;rallidae;36-38;70-80;600-900;greyish black;greyish black
+luhtahuitti;rallidae;19-23;37-42;55-145;brown speckled;brown speckled
+merimetso;phalacrocoracidae;90-100;121-149;2300-3500;black;black
+silkkiuikku;podicipedidae;50-55;59-73;800-1200;blackish grey;white
+härkälintu;podicipedidae;40-50;77-85;700-900;blackish grey;reddish brown
+mustakurkku-uikku;podicipedidae;31-38;46-55;400-720;black;reddish brown
+pikku-uikku;podicipedidae;23-29;40-45;150-200;black;beige
+kaakkuri;gaviidae;53-69;91-110;1300-2000;greyish brown;white
+kuikka;gaviidae;58-73;100-122;2000-3000;black-white;white
+meriharakka;haematopodidae;39-44;72-83;380-520;black;white
+kaulushaikara;ardeidae;70-80;100-130;800-1900;dappled brown;dappled brown
+harmaahaikara;ardeidae;90-100;155-175;930-1150;light grey;greyish white
+kattohaikara;ardeidae;100-115;180-215;2500-4000;black-white;white
+jalohaikara;ardeidae;85-100;145-170;700-1500;white;white

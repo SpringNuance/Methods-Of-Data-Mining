@@ -1,0 +1,48 @@
+Obligatory options missing
+Extra or missing command line parameters. The syntax is
+
+kingfisher -i<inputfile> -k<max item number> -M<threshold> [-w<measure> -t<type of rules>
+ -m<minfr> -c<mincf> -l<rule length> -q<#rules to print> -p<output format>
+ -o<output file> -e<compatibility constraints> -b<extra constraints> -a<attr.file> -f<fixed consequences> -u -d]
+
+-i<inputfile>
+         in transaction form; each row lists attributes which have value 1 in data
+-k<max item number>
+         integer, >=2 (otherwise not sensible)
+-w<measure>
+        1=Fisher's p, 2=ln(p) (default), 3=chi2, 4=MI (mutual information)
+-M<threshold for the measure>
+         should be [0,1] for measure 1, <0.0 for measure 2, and >0 for measure 3
+        (if the program is slow, use smaller thresholds)  
+-t<type of rules>
+         1=only positive rules (default), 2=only negative rules, 3=both positive and
+         negative rules
+[-m<minfr>]
+         minimum frequency threshold, minimum value for p(XA), in [0,1]
+         (default 5/n, where n is the number of rows)
+[-c<mincf>]
+         minimum confidence threshold, minimum value for P(A|X), in [0,1] (default 0.0) 
+[-l<rule length>]
+         maximum number of attributes in the rule, including consequent
+         (default 50; if the program is slow, try a smaller value)
+[-q<#rules to print>]
+         number of best rules which are searched, should be >=0 (default 100) 
+         (if the program is slow, try a smaller value)
+[-p<output format>]
+         1 or 2 (default 1)
+         format 1 outputs X -> A fr cf lift M (X -> ~A for negative rules)
+         format 2 outputs X A or X ~A (negative rules)
+[-o<outputfile>]
+        (default stdout)
+[-e<compatibility constraints>]
+         file for compatibility constraints lists on each row attributes, any two
+         of which cannot occur together
+[-b<extra constraints>]
+         file for extra constraints lists on each row first a consequence attribute
+         and then its forbidden condition attributes
+[-u]
+         uses an upperbound estimate for  ln(1+q1+...+q1q2...qm)
+[-d]
+         disables continuity correction (otherwise used with chi2)
+
+ Example: kingfisher -i mushroom.dat -k120 -M-4000

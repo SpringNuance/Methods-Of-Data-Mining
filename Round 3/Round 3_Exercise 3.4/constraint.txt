@@ -1,0 +1,25 @@
+diet_insects diet_invertebrates
+diet_worms diet_invertebrates
+diet_snails diet_invertebrates
+diet_larvae diet_invertebrates
+diet_invertebrates diet_insects diet_worms diet_snails diet_larvae
+
+diet_snakes diet_vertebrae
+diet_chicks diet_vertebrae
+diet_fish diet_vertebrae
+diet_frogs diet_vertebrae
+diet_lizards diet_vertebrae
+diet_vertebrae diet_lizards diet_frogs diet_fish diet_chicks diet_snakes
+
+diet_grass diet_plants
+diet_grain diet_plants
+diet_plants diet_grain diet_grass
+
+diet_algae diet_plankton
+diet_plankton diet_algae
+
+diet_clams diet_shellfish
+diet_molluscs diet_shellfish
+diet_shellfish diet_clams diet_molluscs
+diet_clams diet_molluscs
+diet_molluscs diet_clams

@@ -1,0 +1,20 @@
+./namescodes/namescodes -n birdstrans.txt -t birdtable.txt -L
+./namescodes/namescodes -n constraint.txt -t birdtable.txt
+./kingfisher/kingfisher -i birdstrans.txt.codes -k152 -M-5 -q100 -o birdrules.txt - b constraint.txt.codes
+./namescodes/namescodes -c birdrules.txt -t birdtable.txt
+
+chmod u+x runbirds.sh
+chmod u+x runbirds_test.sh
+chmod u+x not_occuring_features.sh
+
+./runbirds.sh
+./runbirds_test.sh
+
+#### What things are associated to scolopacidae?
+grep -e 'scolopacidae' birdrules.txt.names > scolopacidae_rules.txt
+
+#### What things are associated to scolopacidae?
+grep -e 'plunge-dives' birdrules.txt.names > plunge_divers_rules.txt
+
+####
+./not_occuring_features.sh

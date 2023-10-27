@@ -1,0 +1,2 @@
+small_BMI diet_invertebrates wading-bird -> scolopacidae fr=10 (0.1562), cf=0.769, gamma=4.476, delta=0.121, M=-1.774e+01 
+diet_invertebrates long-billed -> scolopacidae fr=8 (0.1250), cf=1.000, gamma=5.818, delta=0.104, M=-1.710e+01 

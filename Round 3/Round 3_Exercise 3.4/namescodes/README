@@ -1,0 +1,37 @@
+Program namescodes transforms transaction data containing word labels
+to numerical codes (integers) and back. The numerical codes
+are needed for running kingfisher and many other association mining
+programs, while interpretation of patterns is easier with descriptive
+labels for categorical values.
+
+
+Namescodes
+by W. Hämäläinen Aug 2012, translated to English Oct 2021
+
+For transforming attribute names (labels) to code numbers and code
+numbers to names. Can be used to transform transactional data with
+nominal attributes to numerical codes for running association
+mining programs and the resulting rules/patterns with
+numerical codes back to attribute names for better interpretation.
+Creates also a codetable. 
+
+Note! Very simple implementation, efficiency is not optimized in any way.
+
+Compilation: give command make
+
+Syntax: For transforming attribute names to numerical codes:
+namescodes -n<name data file> -t<codetable> -L 
+
+creates a codetable (with the given file name) and a transformed data file
+with suffix "codes" (e.g., data.txt becomes data.txt.codes)
+
+For transforming numerically coded file (like rules) back to labels: 
+namescodes -c<code file> -t<codetable> 
+
+Now you have to give the same codetable, which was created
+earlier. NOTE: All integers in the code file are transformed according to
+the codetable (if some integer is not found in the codetable, it is
+skipped). 
+
+The resulting file has suffix "names" (e.g. rules.txt
+becomes rules.txt.names).

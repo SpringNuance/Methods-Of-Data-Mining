@@ -1,0 +1,46 @@
+wget https://mycourses.aalto.fi/pluginfile.php/2000134/course/section/233748/kingfisher1_2c.tar.gz
+
+tar xzf kingfisher1 2c.tar.gz
+
+wget http://fimi.uantwerpen.be/data/mushroom.dat
+
+go to kingfisher folder and run "make"
+
+download mushroom data
+wget http://fimi.uantwerpen.be/data/mushroom.dat
+
+Run a test
+kingfisher/kingfisher -i mushroom.dat -k120 -M-100
+
+kingfisher/kingfisher -i mushroom.dat -k120 -M-1 -q1000
+
+See all commands
+kingfisher/kingfisher
+
+kingfisher/kingfisher -i birdstrans.txt.codes -k152 -M-5 -o birdrules.txt -b bconstr.txt.codes
+
+# namecode
+
+wget https://mycourses.aalto.fi/pluginfile.php/2000134/course/section/233748/namescodes.tar.gz
+
+# Transform labels to numerical codes:
+./namescodes -nbirdstrans.txt -tbirdtable.txt -L
+
+The attributes and codes are listed in birdtable.txt (you can check it
+to see how many attributes you have).
+
+Run kingfisher with data birdstrans.txt.codes using a suitable threshold
+(so that you find, e.g., 100-300 rules) and save results to birdrules.txt
+
+Transform numerical codes back to label names: ./namescodes -cbirdrules.txt
+-tbirdtable.txt The result is birdrules.txt.names
+
+Look at birdrules.txt.names and analyze the rules. Hint: You can use
+command egrep to pick up rules related to certain attributes, like egrep
+”long-billed” birdrules.txt.names.
+
+Note: If you generated a constraint file using labels, you need to convert
+it to numerical codes, too, but you need to use the same translation table.
+E.g., if the file with labels is bconstr.txt, run
+
+$ namescodes -n bconstr.txt -tbirdtable.txt

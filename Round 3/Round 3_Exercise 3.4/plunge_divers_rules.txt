@@ -1,0 +1,13 @@
+diet_fish webbed-feet high_WSI -> plunge-dives fr=10 (0.1562), cf=1.000, gamma=6.400, delta=0.132, M=-2.574e+01 
+webbed-feet belly_white high_WSI -> plunge-dives fr=10 (0.1562), cf=1.000, gamma=6.400, delta=0.132, M=-2.574e+01 
+diet_fish high_WSI -> plunge-dives fr=10 (0.1562), cf=0.909, gamma=5.818, delta=0.129, M=-2.335e+01 
+webbed-feet incub_both high_WSI -> plunge-dives fr=10 (0.1562), cf=0.909, gamma=5.818, delta=0.129, M=-2.335e+01 
+diet_fish webbed-feet belly_white -> plunge-dives fr=10 (0.1562), cf=0.769, gamma=4.923, delta=0.125, M=-2.009e+01 
+webbed-feet belly_white incub_both -> plunge-dives fr=10 (0.1562), cf=0.769, gamma=4.923, delta=0.125, M=-2.009e+01 
+diet_fish belly_white -> plunge-dives fr=10 (0.1562), cf=0.667, gamma=4.267, delta=0.120, M=-1.774e+01 
+webbed-feet high_WSI -> plunge-dives fr=10 (0.1562), cf=0.667, gamma=4.267, delta=0.120, M=-1.774e+01 
+webbed-feet belly_white -> plunge-dives fr=10 (0.1562), cf=0.625, gamma=4.000, delta=0.117, M=-1.676e+01 
+diet_fish webbed-feet incub_both -> plunge-dives fr=10 (0.1562), cf=0.625, gamma=4.000, delta=0.117, M=-1.676e+01 
+diet_fish webbed-feet ccare_both -> plunge-dives fr=10 (0.1562), cf=0.625, gamma=4.000, delta=0.117, M=-1.676e+01 
+diet_fish sim webbed-feet -> plunge-dives fr=10 (0.1562), cf=0.625, gamma=4.000, delta=0.117, M=-1.676e+01 
+belly_white ccare_both high_WSI -> plunge-dives fr=10 (0.1562), cf=0.625, gamma=4.000, delta=0.117, M=-1.676e+01 

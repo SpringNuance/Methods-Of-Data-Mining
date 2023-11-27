@@ -1,0 +1,300 @@
+
+====================================================================================================
+
+Formulation of Low-Order Dominant Poles for Y-Matrix of Interconnects: This paper presents an efficient approach to compute the dominant poles for the reduced-order admittance (Y parameter) matrix of lossy interconnects.
+
+| formul | of | loword | domin | pole | for | ymatrix | of | interconnect |  | this | paper | present | an | effici | approach | to | comput | the | domin | pole | for | the | reducedord | admitt |  | y | paramet |  | matrix | of | lossi | interconnect |  |
+
+====================================================================================================
+
+Our algorithm succeeds with high probability against an adaptive adversary, which can take over processors at any time during the protocol, up to the point of taking over arbitrarily close to a 1/3 fraction.
+
+| our | algorithm | succeed | with | high | probabl | against | an | adapt | adversari |  | which | can | take | over | processor | at | ani | time | dure | the | protocol |  | up | to | the | point | of | take | over | arbitrarili | close | to | a | 13 | fraction |  |
+
+====================================================================================================
+
+We present an all-pairs shortest path algorithm whose running time on a complete directed graph on n vertices whose edge weights are chosen independently and uniformly at random from [0,1] is O(n2), in expectation and with high probability.
+
+| we | present | an | allpair | shortest | path | algorithm | whose | run | time | on | a | complet | direct | graph | on | n | vertic | whose | edg | weight | are | chosen | independ | and | uniform | at | random | from |  | 01 |  | is | o |  | n2 |  |  | in | expect | and | with | high | probabl |  |
+
+====================================================================================================
+
+We consider the problem of re-ranking the top-k documents returned by a retrieval system given some search query.
+
+| we | consid | the | problem | of | rerank | the | topk | document | return | by | a | retriev | system | given | some | search | queri |  |
+
+====================================================================================================
+
+In this paper, we combine the learning-to-rank paradigm with the recent developments on axioms for information retrieval.
+
+| in | this | paper |  | we | combin | the | learningtorank | paradigm | with | the | recent | develop | on | axiom | for | inform | retriev |  |
+
+====================================================================================================
+
+We outline important details on cross-validation techniques that can enhance the performance.
+
+| we | outlin | import | detail | on | crossvalid | techniqu | that | can | enhanc | the | perform |  |
+
+====================================================================================================
+
+“Next-fit” allocation differs from first-fit in that a first-fit allocator commences its search for free space at a fixed end of memory, whereas a next-fit allocator commences its search wherever it previously stopped searching.
+
+| “ | nextfit | ” | alloc | differ | from | firstfit | in | that | a | firstfit | alloc | commenc | it | search | for | free | space | at | a | fix | end | of | memori |  | wherea | a | nextfit | alloc | commenc | it | search | wherev | it | previous | stop | search |  |
+
+====================================================================================================
+
+It is important to choose an appropriate network structure because simple networks are likely to under-fit while complex networks are less plastic and more computationally expensive to train.
+
+| it | is | import | to | choos | an | appropri | network | structur | becaus | simpl | network | are | like | to | underfit | while | complex | network | are | less | plastic | and | more | comput | expens | to | train |  |
+
+====================================================================================================
+
+Both of the LL-based algorithms in these papers attempt to minimize the reparsing on the original parse tree and the parse table.
+
+| both | of | the | llbase | algorithm | in | these | paper | attempt | to | minim | the | repars | on | the | origin | pars | tree | and | the | pars | tabl |  |
+
+====================================================================================================
+
+In this paper, L2-norm Deep Belief Network (L2DBN) is proposed, which uses L2-norm regularization to optimize the network parameters of DBN.
+
+| in | this | paper |  | l2norm | deep | belief | network |  | l2dbn |  | is | propos |  | which | use | l2norm | regular | to | optim | the | network | paramet | of | dbn |  |
+
+====================================================================================================
+
+The dramatic development of IT technology has increased absolute amount of data to store, analyze, and process for computers and it has also rapidly increased the amount of realtime processing for data stream
+
+| the | dramat | develop | of | it | technolog | has | increas | absolut | amount | of | data | to | store |  | analyz |  | and | process | for | comput | and | it | has | also | rapid | increas | the | amount | of | realtim | process | for | data | stream |
+
+====================================================================================================
+
+We present an algorithm achieving gathering in O(n2) rounds in expectation.
+
+| we | present | an | algorithm | achiev | gather | in | o |  | n2 |  | round | in | expect |  |
+
+====================================================================================================
+
+Let A and B two n×n matrices over a ring R (e.g., the reals or the integers) each containing at most m nonzero elements.
+
+| let | a | and | b | two | n×n | matric | over | a | ring | r |  | eg |  | the | real | or | the | integ |  | each | contain | at | most | m | nonzero | element |  |
+
+====================================================================================================
+
+Firmware is the enable software of Internet of Things (IoT) devices, and its software vulnerabilities are one of the primary reason of IoT devices being exploited.
+
+| firmwar | is | the | enabl | softwar | of | internet | of | thing |  | iot |  | devic |  | and | it | softwar | vulner | are | one | of | the | primari | reason | of | iot | devic | be | exploit |  |
+
+====================================================================================================
+
+We present a new algorithm that multiplies A and B using O(m0.7n1.2+n2+o(1)) algebraic operations (i.e., multiplications, additions and subtractions) over R.
+
+| we | present | a | new | algorithm | that | multipli | a | and | b | use | o |  | m07n12n2o |  | 1 |  |  | algebra | oper |  | ie |  | multipl |  | addit | and | subtract |  | over | r |  |
+
+====================================================================================================
+
+Efforts in “explainable AI” are under way, hopefully eliminating the “black-box” concept in future clinical decision tools.
+
+| effort | in | “ | explain | ai | ” | are | under | way |  | hope | elimin | the | “ | blackbox | ” | concept | in | futur | clinic | decis | tool |  |
+
+====================================================================================================
+
+Target distance (D) and target width (W), traditionally treated as independent variables in Fitts' target acquisition paradigm, are shown to suffer inextricable confounds with task difficulty.
+
+| target | distanc |  | d |  | and | target | width |  | w |  |  | tradit | treat | as | independ | variabl | in | fitt |  | target | acquisit | paradigm |  | are | shown | to | suffer | inextric | confound | with | task | difficulti |  |
+
+====================================================================================================
+
+This paper describes an NSF-funded initiative involving 600 underrepresented high school students and 60 teachers designed to introduce underrepresented students to the numerous and varied career opportunities in the computing sciences.
+
+| this | paper | describ | an | nsffund | initi | involv | 600 | underrepres | high | school | student | and | 60 | teacher | design | to | introduc | underrepres | student | to | the | numer | and | vari | career | opportun | in | the | comput | scienc |  |
+
+====================================================================================================
+
+The gathering problem, where n autonomous robots with restricted capabilities are required to meet in a single point of the plane, is widely studied.
+
+| the | gather | problem |  | where | n | autonom | robot | with | restrict | capabl | are | requir | to | meet | in | a | singl | point | of | the | plane |  | is | wide | studi |  |
+
+====================================================================================================
+
+The information captured by IoT present an unprecedented opportunity to solve large-scale problems in those application domains to deliver services
+
+| the | inform | captur | by | iot | present | an | unpreced | opportun | to | solv | largescal | problem | in | those | applic | domain | to | deliv | servic |
+
+====================================================================================================
+
+Compliance with the information system (IS) security policy is an established theme in IS research for protecting the IS from user actions.
+
+| complianc | with | the | inform | system |  | is |  | secur | polici | is | an | establish | theme | in | is | research | for | protect | the | is | from | user | action |  |
+
+====================================================================================================
+
+In this paper, we develop Re-Vibe, the first system that re-identifies people through footstep-induced floor vibrations.
+
+| in | this | paper |  | we | develop | revib |  | the | first | system | that | reidentifi | peopl | through | footstepinduc | floor | vibrat |  |
+
+====================================================================================================
+
+I/O is emerging as a major bottleneck for machine learning training, especially in distributed environments.
+
+| io | is | emerg | as | a | major | bottleneck | for | machin | learn | train |  | especi | in | distribut | environ |  |
+
+====================================================================================================
+
+In this paper, we attempt to improve the query likelihood function by bringing back the negative query generation.
+
+| in | this | paper |  | we | attempt | to | improv | the | queri | likelihood | function | by | bring | back | the | negat | queri | generat |  |
+
+====================================================================================================
+
+In this paper, we propose a new on-chip interconnect scheme called Y-architecture, which can utilize the on-chip routing resources more efficiently than traditional Manhattan interconnect architecture by allowing wires routed in three directions (0°, 60°, and 120°).
+
+| in | this | paper |  | we | propos | a | new | onchip | interconnect | scheme | call | yarchitectur |  | which | can | util | the | onchip | rout | resourc | more | effici | than | tradit | manhattan | interconnect | architectur | by | allow | wire | rout | in | three | direct |  | 0° |  | 60° |  | and | 120° |  |  |
+
+====================================================================================================
+
+We describe an algorithm for Byzantine agreement that is scalable in the sense that each processor sends only O(√n) bits, where n is the total number of processors.
+
+| we | describ | an | algorithm | for | byzantin | agreement | that | is | scalabl | in | the | sens | that | each | processor | send | onli | o |  | √n |  | bit |  | where | n | is | the | total | number | of | processor |  |
+
+====================================================================================================
+
+This paper presents an image-based rendering (IBR) system based on RGB-D images.
+
+| this | paper | present | an | imagebas | render |  | ibr |  | system | base | on | rgbd | imag |  |
+
+====================================================================================================
+
+In this paper we present a framework and methodology for aligning the business strategy and IT/IS for an organization offering an e-service in a multi-organizational setting.
+
+| in | this | paper | we | present | a | framework | and | methodolog | for | align | the | busi | strategi | and | iti | for | an | organ | offer | an | eservic | in | a | multiorganiz | set |  |
+
+====================================================================================================
+
+The D Programming Language is a hybrid of C++ and modern scripting languages: it compiles statically to native code, but is also garbage collected.
+
+| the | d | program | languag | is | a | hybrid | of | c | and | modern | script | languag |  | it | compil | static | to | nativ | code |  | but | is | also | garbag | collect |  |
+
+====================================================================================================
+
+However, the main aim is precisely to present an algorithm which gives the so-called minimal solutions: Boolean matrices M satisfying the equation with the least possible number of unity entries.
+
+| howev |  | the | main | aim | is | precis | to | present | an | algorithm | which | give | the | socal | minim | solut |  | boolean | matric | m | satisfi | the | equat | with | the | least | possibl | number | of | uniti | entri |  |
+
+====================================================================================================
+
+A number of algorithms have been proposed for LR incremental parsers, but few have been proposed for LL incremental parsers [1, 2].
+
+| a | number | of | algorithm | have | been | propos | for | lr | increment | parser |  | but | few | have | been | propos | for | ll | increment | parser |  | 1 |  | 2 |  |  |
+
+====================================================================================================
+
+I will discuss the use of graphical models for data mining.
+
+| i | will | discuss | the | use | of | graphic | model | for | data | mine |  |
+
+====================================================================================================
+
+Over the past decade, a pair of synchronization instructions known as LL/SC has emerged as the most suitable set of instructions to be used in the design of lock-free algorithms.
+
+| over | the | past | decad |  | a | pair | of | synchron | instruct | known | as | llsc | has | emerg | as | the | most | suitabl | set | of | instruct | to | be | use | in | the | design | of | lockfre | algorithm |  |
+
+====================================================================================================
+
+Our algorithm has latency that is polylogarithmic in n. 
+
+| our | algorithm | has | latenc | that | is | polylogarithm | in | n |  |
+
+====================================================================================================
+
+Typical person re-identification (re-ID) systems rely on cameras to match the same person across different locations.
+
+| typic | person | reidentif |  | reid |  | system | reli | on | camera | to | match | the | same | person | across | differ | locat |  |
+
+====================================================================================================
+
+The Internet of Things (IoT) is the latest Internet evolution that incorporates a diverse range of things such as sensors, actuators, and services deployed by different organizations and individuals to support a variety of applications.
+
+| the | internet | of | thing |  | iot |  | is | the | latest | internet | evolut | that | incorpor | a | divers | rang | of | thing | such | as | sensor |  | actuat |  | and | servic | deploy | by | differ | organ | and | individu | to | support | a | varieti | of | applic |  |
+
+====================================================================================================
+
+This subsection compares the state of the art methods and the proposed WRA-Net for the BoniRob dataset through the same method.
+
+| this | subsect | compar | the | state | of | the | art | method | and | the | propos | wranet | for | the | bonirob | dataset | through | the | same | method |  |
+
+====================================================================================================
+
+Hence, WRA-Net achieved higher values for PSNRand SSIM compared to the state-of-the-art methods.
+
+| henc |  | wranet | achiev | higher | valu | for | psnrand | ssim | compar | to | the | stateoftheart | method |  |
+
+====================================================================================================
+
+It is shown that relative movement amplitude D/W(which determines difficulty) and absolute movement amplitude D (or scale) are the only two variables that can be manipulated independently in a Fitts' task experiment.
+
+| it | is | shown | that | relat | movement | amplitud | dw |  | which | determin | difficulti |  | and | absolut | movement | amplitud | d |  | or | scale |  | are | the | onli | two | variabl | that | can | be | manipul | independ | in | a | fitt |  | task | experi |  |
+
+====================================================================================================
+
+The area-under-the-curve (AUC) was the chosen performance metric for comparison and cross-validation was performed.
+
+| the | areaunderthecurv |  | auc |  | was | the | chosen | perform | metric | for | comparison | and | crossvalid | was | perform |  |
+
+====================================================================================================
+
+In this paper we present a tool to assist in teaching top-down and bottom-up analysis algorithms. The tool provides simulation for the following analysis algorithms: LL, SLR, LALR and LR.
+
+| in | this | paper | we | present | a | tool | to | assist | in | teach | topdown | and | bottomup | analysi | algorithm |  | the | tool | provid | simul | for | the | follow | analysi | algorithm |  | ll |  | slr |  | lalr | and | lr |  |
+
+====================================================================================================
+
+In this paper, we formally show that standard gradient methods never overfit on separable data: If we run these methods for T iterations on a dataset of size m, both the empirical risk and the generalization error decrease at an essentially optimal rate of Õ(1/γ2T) up till T ∼ m.
+
+| in | this | paper |  | we | formal | show | that | standard | gradient | method | never | overfit | on | separ | data |  | if | we | run | these | method | for | t | iter | on | a | dataset | of | size | m |  | both | the | empir | risk | and | the | general | error | decreas | at | an | essenti | optim | rate | of | õ |  | 1γ2t |  | up | till | t | ∼ | m |  |
+
+====================================================================================================
+
+This paper is concerned with goodness of fit evaluation for virtual commissioning modelling purposes.
+
+| this | paper | is | concern | with | good | of | fit | evalu | for | virtual | commiss | model | purpos |  |
+
+====================================================================================================
+
+The results showed that the optimal performance was achieved under natural complexification of the EANN and that back-propagation tended to over fit the data.
+
+| the | result | show | that | the | optim | perform | was | achiev | under | natur | complexif | of | the | eann | and | that | backpropag | tend | to | over | fit | the | data |  |
+
+====================================================================================================
+
+The second approach does not train models that generalize across tasks, but rather over-fit a single instance of a problem
+
+| the | second | approach | doe | not | train | model | that | general | across | task |  | but | rather | overfit | a | singl | instanc | of | a | problem |
+
+====================================================================================================
+
+This paper describes two significant contributions to the NILM community in an effort towards reproducible state-of-the-art research.
+
+| this | paper | describ | two | signific | contribut | to | the | nilm | communiti | in | an | effort | toward | reproduc | stateoftheart | research |  |
+
+====================================================================================================
+
+Accurate numerical results for a definite integral are easily obtained by simple substitutions of upper and lower bounds of integral into obtained approximate symbolic results
+
+| accur | numer | result | for | a | definit | integr | are | easili | obtain | by | simpl | substitut | of | upper | and | lower | bound | of | integr | into | obtain | approxim | symbol | result |
+
+====================================================================================================
+
+This paper presents an optimal algorithm for jumper insertion under the ratio upper-bound.
+
+| this | paper | present | an | optim | algorithm | for | jumper | insert | under | the | ratio | upperbound |  |
+
+====================================================================================================
+
+In particular, we argue that inter-tagger agreement is not a real upperbound for the Basque WSD task.
+
+| in | particular |  | we | argu | that | intertagg | agreement | is | not | a | real | upperbound | for | the | basqu | wsd | task |  |
+
+====================================================================================================
+
+Lexicalized context-free grammar(LCFG) is an attractive compromise between the parsing efficiency of context-free grammar (CFG) and the elegance and lexical sensitivity of lexicalized tree adjoining grammar (LTAG).
+
+| lexic | contextfre | grammar |  | lcfg |  | is | an | attract | compromis | between | the | pars | effici | of | contextfre | grammar |  | cfg |  | and | the | eleg | and | lexic | sensit | of | lexic | tree | adjoin | grammar |  | ltag |  |  |
